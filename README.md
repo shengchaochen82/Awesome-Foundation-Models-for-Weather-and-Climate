@@ -1,6 +1,7 @@
 # Awesome-Foundation-Models-for-Weather-and-Climate
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+![Stars](https://img.shields.io/github/stars/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate)
 
 A professionally curated list of **Large Foundation Models for Weather and Climate Data Understanding (e.g., time-series, spatio-temporal series, video streams, graphs, and text)** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
