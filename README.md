@@ -26,11 +26,11 @@ We will continue to update this list with the newest resources. If you find any 
 <em>Note that in this categorization, we use basic network architectures (e.g., RNN, Transformer), etc., and applications (e.g., prediction, weather pattern understanding, etc.) to make an enumeration of advanced related work.</em>
 
 Recurrent Neural Network-based Models
-* Motionrnn: A flexible model for video prediction with spacetime-varying motions, in *CVPR* 2021.
-* Convolutional lstm network: A machine learning approach for precipitation nowcasting, in *NeurIPS* 2015.
-* Dwfh: An improved data-driven deep weather forecasting hybrid model using transductive long short term memory (t-lstm), in *EAAI* 2023.
+* MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions, in *CVPR* 2021. [\[Paper\]](https://arxiv.org/abs/2103.02243) [\[official code\]](https://github.com/thuml/MotionRNN)
+* Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting, in *NeurIPS* 2015. [\[Paper\]](https://arxiv.org/abs/2103.02243) [\[official code\]](https://github.com/ndrplz/ConvLSTM_pytorch) 
+* Dwfh: An improved data-driven deep weather forecasting hybrid model using transductive long short term memory (t-lstm), in *EAAI* 2023. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0957417422022886)
 * Spatiotemporal inference network for precipitation nowcasting with multi-modal fusion, in *IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing* 2023.
-* Understanding the role of weather data for earth surface forecastingusing a convlstm-based model, in *CVPR* 2023.
+* Understanding the role of weather data for earth surface forecastingusing a convlstm-based model, in *CVPR* 2023. [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Diaconu_Understanding_the_Role_of_Weather_Data_for_Earth_Surface_Forecasting_CVPRW_2022_paper.pdf) [\[official code\]](https://github.com/dcodrut/weather2land)
 * Spatio-temporal weather forecasting and attention mechanism on convolutional lstms, in *arXiv* 2021.
 * Convolutional tensor-train lstm for spatio-temporal learning, in *NeurIPS* 2020.
 * Predrnn: A recurrent neural network for spatiotemporal predictive learning, in *IEEE T-PAMI* 2022.
