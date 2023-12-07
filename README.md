@@ -20,3 +20,7 @@ We will continue to update this list with the newest resources. If you find any 
 * FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.02948)
 * FuXi: A cascade machine learning forecasting system for 15-day global weather forecast, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.12873) [\[official code\]](https://github.com/tpys/FuXi)
 * OceanGPT: A Large Language Model for Ocean Science Tasks, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.02031) [\[official code\]](https://huggingface.co/zjunlp/OceanGPT-7b)
+
+  
+#### Task-Specific Models for Weather and Climate
+<em>Note that in this categorization, we use basic network architectures (e.g., RNN, Transformer), etc., and applications (e.g., prediction, weather pattern understanding, etc.) to make an enumeration of advanced related work.<em>
