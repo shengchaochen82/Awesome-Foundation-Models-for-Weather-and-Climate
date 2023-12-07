@@ -39,6 +39,6 @@ Recurrent Neural Network-based Models
 * Time-series prediction of hourly atmospheric pressure using anfis and lstm approaches, in *Neural Computing and Applications* 2022.
 * Ilf-lstm: Enhanced loss function in lstm to predict the sea surface temperature, in *Soft Computing* 2022.
 * Swinlstm: Improving spatiotemporal prediction accuracy using swin transformer and lstm, in *ICCV* 2023.
-* Swinrdm: integrate swinrnn with diffusion model towards high-resolution and highquality weather forecasting, in *AAAI* 2023.
+* Swinrdm: integrate swinrnn with diffusion model towards high-resolution and highquality weather forecasting, in *AAAI* 2023.
 * Swinvrnn: A data-driven ensemble forecasting model via learned distribution perturbation, in *Journal of Advances in Modeling Earth Systems* 2023.
 * A generative adversarial gated recurrent unit model for precipitation nowcasting, in *IEEE Geoscience and Remote Sensing Letters* 2019.
