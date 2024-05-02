@@ -10,10 +10,13 @@ A professionally curated list of **Large Foundation Models for Weather and Clima
 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
+___
+## Large Foundation Models for Weather and Climate
+>**Definition**:
+*Pre-trained from large-scale weather/climate dataset and able to perform various weather/cliamte-related tasks.*
 
-#### Large Foundation Models for Weather and Climate
-* Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks, in *Nature* 2023. [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3) [\[official code\]](https://github.com/198808xc/Pangu-Weather)
-* ClimaX: A Foundation Model for Weather and Climate, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2301.10343) [\[official code\]](https://github.com/microsoft/ClimaX)
+* Pangu-Weather: Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks, in *Nature* 2023. [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3) [\[official code\]](https://github.com/198808xc/Pangu-Weather)
+* ClimaX: A Foundation Model for Weather and Climate, in *ICML* 2023. [\[paper\]](https://arxiv.org/abs/2301.10343) [\[official code\]](https://github.com/microsoft/ClimaX)
 * GraphCast: Learning Skillful Medium-Range Global Weather Forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2212.12794) [\[official code\]](https://github.com/google-deepmind/graphcast)
 * FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operator, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2202.11214) [\[official code\]](https://github.com/NVlabs/FourCastNet)
 * W-MAE: Pre-Trained Weather Model with Masked Autoencoder for Multi-Variable Weather Forecasting, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.08754)  [\[official code\]](https://github.com/Gufrannn/W-MAE)
@@ -23,10 +26,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 ---
   
-#### Task-Specific Models for Weather and Climate
-<em>Note that in this categorization, we use basic network architectures (e.g., RNN, Transformer), etc., and applications (e.g., prediction, weather pattern understanding, etc.) to make an enumeration of advanced related work.</em>
+## Task-Specific Models for Weather and Climate
+> **Remark**: *Note that in this categorization, we use basic network architectures (e.g., RNN, Transformer), etc., and applications (e.g., prediction, weather pattern understanding, etc.) to make an enumeration of advanced related work.*
 
-Recurrent Neural Network-based Models
+**Recurrent Neural Network-based Models**
+
 * MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions, in *CVPR* 2021. [\[Paper\]](https://arxiv.org/abs/2103.02243) [\[official code\]](https://github.com/thuml/MotionRNN)
 * Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting, in *NeurIPS* 2015. [\[Paper\]](https://proceedings.neurips.cc/paper/2015/hash/07563a3fe3bbe7e3ba84431ad9d055af-Abstract.html) [\[official code\]](https://github.com/ndrplz/ConvLSTM_pytorch) 
 * Dwfh: An improved data-driven deep weather forecasting hybrid model using transductive long short term memory (t-lstm), in *EAAI* 2023. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0957417422022886)
@@ -48,7 +52,7 @@ Recurrent Neural Network-based Models
 * Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows, in *ICCV* 2021. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper) [\[official code\]](https://github.com/microsoft/Swin-Transformer) 
 * Towards data-driven physics-informed global precipitation forecasting from satellite imagery, in *NeurIPS* 2020. [\[Paper\]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2020/70/paper.pdf)
 
-Diffusion Models
+**Diffusion Models-based Approaches**
 * SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting, in *AAAI* 2023. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25105)
 * Swinvrnn: A data-driven ensemble forecasting model via learned distribution perturbation, in *Journal of Advances in Modeling Earth Systems* 2023. [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211)
 * SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2306.14066)
@@ -61,7 +65,7 @@ Diffusion Models
 * Generative Residual Diffusion Modeling for Km-scale Atmospheric Downscaling, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2309.15214)
 * DiffMet: Diffusion models and deep learning for precipitation nowcasting, in *Master thesis* 2023. [\[Paper\]](https://www.duo.uio.no/handle/10852/103253)
 
-Generative Adversarial Networks (GANs)
+**Generative Adversarial Networks (GANs)-based Approaches**
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, in *arXiv* 2015. [\[Paper\]](https://arxiv.org/abs/1511.06434) [\[official code\]](https://github.com/Newmu/dcgan_code)
 * Large Scale GAN Training for High Fidelity Natural Image Synthesis, in *arXiv* 2018. [\[Paper\]](https://arxiv.org/abs/1809.11096) [\[official code\]](https://github.com/ajbrock/BigGAN-PyTorch)
 * Progressive Growing of GANs for Improved Quality, Stability, and Variation, in *arXiv* 2018. [\[Paper\]](https://arxiv.org/abs/1710.10196) [\[official code\]](https://github.com/tkarras/progressive_growing_of_gans)
@@ -92,7 +96,7 @@ Generative Adversarial Networks (GANs)
 * A Space-Time Partial Differential Equation Based Physics-Guided Neural Network for Sea Surface Temperature Prediction, in *Remote Sensing* 2023. [\[Paper\]](https://www.mdpi.com/2072-4292/15/14/3498)
 * Physics-informed generative neural network: an application to troposphere temperature prediction, in *Environmental Research Letters* 2021. [\[Paper\]](https://iopscience.iop.org/article/10.1088/1748-9326/abfde9/meta)
 
-Transformers
+**Transformers-based Approaches**
 * Oceanfourcast: Emulating Ocean Models with Transformers for Adjoint-based Data Assimilation, in *Copernicus Meetings* 2023. [\[Paper\]](https://meetingorganizer.copernicus.org/EGU23/EGU23-10810.html)
 * Comprehensive Transformer-Based Model Architecture for Real-World Storm Prediction, in *Machine Learning and Knowledge Discovery in Databases* 2023. [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-43430-3_4)
 * Transformer-based nowcasting of radar composites from satellite images for severe weather, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2310.19515)
@@ -115,7 +119,7 @@ Transformers
 * Evaluating TCFD Reporting: A New Application of Zero-Shot Analysis to Climate-Related Financial Disclosures, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2302.00326)
 * Enhancing Large Language Models with Climate Resources, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2304.00116)
 
-Graph Neural Networks
+**Graph Neural Networks-based Approaches**
 * ENSO-GTC: ENSO Deep Learning Forecast Model With a Global Spatial-Temporal Teleconnection Coupler, in *Journal of Advances in Modeling Earth Systems* 2022. [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003132) [\[official code\]](https://github.com/BrunoQin/ENSO-GTC)
 * GraphCast: Learning skillful medium-range global weather forecasting, in *arXiv* 2022. [\[Paper\]](https://arxiv.org/abs/2212.12794) [\[official code\]](https://github.com/google-deepmind/graphcast)
 * Forecasting Global Weather with Graph Neural Networks, in *arXiv* 2022. [\[Paper\]](https://arxiv.org/abs/2202.07575) [\[official code\]](https://github.com/openclimatefix/graph_weather)
@@ -136,9 +140,9 @@ Graph Neural Networks
 
 ---
   
-#### APPLICATIONS
+## Application
 
-Forecasting
+**Forecasting**
 * Dwfh: An improved data-driven deep weather forecasting hybrid model using transductive long short term memory (t-lstm), in *EAAI* 2023. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0957417422022886)
 * Swinrdm: integrate swinrnn with diffusion model towards high-resolution and highquality weather forecasting, in *AAAI* 2023. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25105)
 * Swinvrnn: A data-driven ensemble forecasting model via learned distribution perturbation, in *Journal of Advances in Modeling Earth Systems* 2023. [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211)
@@ -179,7 +183,7 @@ Forecasting
 * Hierarchical Graph Representation Learning with Differentiable Pooling, in *NeurIPS* 2018. [\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2018/hash/e77dbaf6759253c7c6d0efc5690369c7-Abstract.html) [\[official code\]](https://github.com/murphyyhuang/gnn_hierarchical_pooling)
 * WeKG-MF: A Knowledge Graph of Observational Weather Data, in *European Semantic Web Conference* 2022. [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-11609-4_19)
 
-Precipitation Nowcasting
+**Precipitation Nowcasting**
 
 * Dynamic Multiscale Fusion Generative Adversarial Network for Radar Image Extrapolation, in *IEEE Transactions on Geoscience and Remote Sensing* 2022. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9837952)
 * MCSIP Net: Multichannel Satellite Image Prediction via Deep Neural Network, in *IEEE Transactions on Geoscience and Remote Sensing* 2019. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8933126)
@@ -219,9 +223,9 @@ Precipitation Nowcasting
 
 ---
   
-#### Dataset
+## Dataset
 
-Weather and Climate Series Data
+**Weather and Climate Series Data**
 * WeatherBench: A Benchmark Data Set for Data-Driven Weather Forecasting, in *Journal of Advances in Modeling Earth Systems* 2020. [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002203) [\[official code\]](https://github.com/pangeo-data/WeatherBench)
 * WeatherBench 2: A benchmark for the next generation of data-driven global weather models, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2308.15560) [\[official code\]](https://github.com/google-research/weatherbench2)
 * ClimateLearn: Benchmarking Machine Learning for Weather and Climate Modeling, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2307.01909) [\[official code\]](https://github.com/aditya-grover/climate-learn)
@@ -248,9 +252,20 @@ Weather and Climate Series Data
 * Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2301.09152) [\[official code\]](https://github.com/shengchaochen82/MetePFL)
 * LSDSSIMR: Large-Scale Dust Storm Database Based on Satellite Images and Meteorological Reanalysis Data, in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 2023. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10287393) [\[official code\]](https://github.com/Zjut-MultimediaPlus/LSDSSIMR)
 
-Weather and Climate Text Data
+**Weather and Climate Text Data**
 * CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims, in *arXiv* 2021. [\[Paper\]](https://arxiv.org/abs/2012.00614) [\[official code\]](https://github.com/tdiggelm/climate-fever-dataset)
 * ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2310.08096)
 * ClimaText: A Dataset for Climate Change Topic Detection, in *arXiv* 2020. [\[Paper\]](https://arxiv.org/abs/2012.00483)
 * Towards Fine-grained Classification of Climate Change related Social Media Text, in *Association for Computational Linguistics: Student Research Workshop* 2022. [\[Paper\]](https://aclanthology.org/2022.acl-srw.35/)
 * Neuralnere: Neural named entity relationship extraction for end-to-end climate change knowledge graph construction, in *ICML* 2021. [\[Paper\]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/76/paper.pdf)
+
+
+## Please cite our publication if you found our research to be helpful.
+
+```bibtex
+@article{chen2023foundation,
+  title={Foundation models for weather and climate data understanding: A comprehensive survey},
+  author={Chen, Shengchao and Long, Guodong and Jiang, Jing and Liu, Dikai and Zhang, Chengqi},
+  journal={arXiv preprint arXiv:2312.03014},
+  year={2023}
+}
