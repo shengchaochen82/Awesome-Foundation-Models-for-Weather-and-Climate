@@ -7,7 +7,6 @@ A professionally curated list of **Large Foundation Models for Weather and Clima
 
 **<font color="red">[Paper]</font>** Our survey: [Foundation Models for Weather and Climate Data Understanding: A Comprehensive Survey](https://arxiv.org/pdf/2312.03014.pdf) has appeared on arXiv, which is the first work to comprehensively and systematically summarize DL-based weather and climate data understanding, paving the way for the development of weather and climate foundation models. 🌤️⛈️❄️
 
-
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 ___
@@ -226,6 +225,8 @@ ___
 ## Dataset
 
 **Weather and Climate Series Data**
+* ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning, in *NeurIPS* (Track on Datasets and Benchmarks) 2023. [\[Paper\]](https://arxiv.org/abs/2311.03721) [\[official project\]](https://climateset.github.io/) 
+* ClimateBench v1.0: A Benchmark for Data-Driven Climate Projections, in *Journal of Advances in Modeling Earth Systems* 2022. [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002954) [\[official code\]](https://github.com/duncanwp/ClimateBench) 
 * WeatherBench: A Benchmark Data Set for Data-Driven Weather Forecasting, in *Journal of Advances in Modeling Earth Systems* 2020. [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002203) [\[official code\]](https://github.com/pangeo-data/WeatherBench)
 * WeatherBench 2: A benchmark for the next generation of data-driven global weather models, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2308.15560) [\[official code\]](https://github.com/google-research/weatherbench2)
 * ClimateLearn: Benchmarking Machine Learning for Weather and Climate Modeling, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2307.01909) [\[official code\]](https://github.com/aditya-grover/climate-learn)
