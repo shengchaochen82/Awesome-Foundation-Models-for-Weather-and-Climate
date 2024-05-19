@@ -263,7 +263,9 @@ ___
 * Towards Fine-grained Classification of Climate Change related Social Media Text, in *Association for Computational Linguistics: Student Research Workshop* 2022. [\[Paper\]](https://aclanthology.org/2022.acl-srw.35/)
 * Neuralnere: Neural named entity relationship extraction for end-to-end climate change knowledge graph construction, in *ICML* 2021. [\[Paper\]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/76/paper.pdf)
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX0tEWUh0QThGeUtPQnRFbDdRamJtNFFzN3lyZUkzNTRGekI1SQ==#lencx/chatgpt&Timeline" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate&type=Date)](https://star-history.com/#shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate&Date)
 
 ## Please cite our publication if you found our research to be helpful.
 
