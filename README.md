@@ -26,8 +26,8 @@ ___
 |FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operator|*arXiv* |2022|[\[paper\]](https://arxiv.org/abs/2202.11214) [\[code\]](https://github.com/NVlabs/FourCastNet)|
 |W-MAE: Pre-Trained Weather Model with Masked Autoencoder for Multi-Variable Weather Forecasting|*arXiv* |2023|[\[paper\]](https://arxiv.org/abs/2304.08754)  [\[code\]](https://github.com/Gufrannn/W-MAE)|
 |FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead|*arXiv* |2023|[[\[paper\]](https://arxiv.org/abs/2304.02948)|
-|FuXi: A cascade machine learning forecasting system for 15-day global weather forecast|*arXiv* |2023|[[\[paper\]](https://arxiv.org/abs/2306.12873) [\[official code\]](https://github.com/tpys/FuXi)|
-| OceanGPT: A Large Language Model for Ocean Science Tasks  | *arXiv*   | 2023     | [\[paper\]](https://arxiv.org/abs/2310.02031) [\[official code\]](https://huggingface.co/zjunlp/OceanGPT-7b)     |
+|FuXi: A cascade machine learning forecasting system for 15-day global weather forecast|*arXiv* |2023|[[\[paper\]](https://arxiv.org/abs/2306.12873) [\[code\]](https://github.com/tpys/FuXi)|
+| OceanGPT: A Large Language Model for Ocean Science Tasks  | *arXiv*   | 2023     | [\[paper\]](https://arxiv.org/abs/2310.02031) [\[code\]](https://huggingface.co/zjunlp/OceanGPT-7b)  |
 
 
 ---
