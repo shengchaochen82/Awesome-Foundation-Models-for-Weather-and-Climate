@@ -17,6 +17,14 @@ ___
 >**Definition**:
 *Pre-trained from large-scale weather/climate dataset and able to perform various weather/cliamte-related tasks.*
 
+
+| Publication  | Venue | Year |  Resource |
+|:------|:----:|---------:|---------:|
+| Pangu-Weather: Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks  | *Nature*   | 2023     | [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3) [\[official code\]](https://github.com/198808xc/Pangu-Weather)     |
+| 李四  | 30   | 上海     | 北京     |
+| 王五  | 28   | 广州     | 北京     |
+
+
 * Pangu-Weather: Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks, in *Nature* 2023. [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3) [\[official code\]](https://github.com/198808xc/Pangu-Weather)
 * ClimaX: A Foundation Model for Weather and Climate, in *ICML* 2023. [\[paper\]](https://arxiv.org/abs/2301.10343) [\[official code\]](https://github.com/microsoft/ClimaX)
 * GraphCast: Learning Skillful Medium-Range Global Weather Forecasting, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2212.12794) [\[official code\]](https://github.com/google-deepmind/graphcast)
