@@ -62,17 +62,20 @@ ___
 | Towards data-driven physics-informed global precipitation forecasting from satellite imagery | *NeurIPS* | 2020 | [\[paper\]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2020/70/paper.pdf) |
 
 **Diffusion Models-based Approaches**
-* SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting, in *AAAI* 2023. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25105)
-* Swinvrnn: A data-driven ensemble forecasting model via learned distribution perturbation, in *Journal of Advances in Modeling Earth Systems* 2023. [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211)
-* SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2306.14066)
-* DiTTO: Diffusion-inspired Temporal Transformer Operator, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2307.09072)
-* PreDiff: Precipitation Nowcasting with Latent Diffusion Models, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2307.10422)
-* Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2304.12891) [\[official code\]](https://github.com/MeteoSwiss/ldcast)
-* ClimART: A Benchmark Dataset for Emulating Atmospheric Radiative Transfer in Weather and Climate Models, in *arXiv* 2021. [\[Paper\]](https://arxiv.org/abs/2111.14671) [\[official code\]](https://github.com/RolnickLab/climart)
-* PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2308.05732)
-* Diffusion Models for High-Resolution Solar Forecasts, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2302.00170)
-* Generative Residual Diffusion Modeling for Km-scale Atmospheric Downscaling, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2309.15214)
-* DiffMet: Diffusion models and deep learning for precipitation nowcasting, in *Master thesis* 2023. [\[Paper\]](https://www.duo.uio.no/handle/10852/103253)
+| Publication | Venue | Year | Resource |
+|:------|:----:|---------:|---------:|
+| SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting | *AAAI* | 2023 | [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25105) |
+| Swinvrnn: A data-driven ensemble forecasting model via learned distribution perturbation | *Journal of Advances in Modeling Earth Systems* | 2023 | [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211) |
+| SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2306.14066) |
+| DiTTO: Diffusion-inspired Temporal Transformer Operator | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2307.09072) |
+| PreDiff: Precipitation Nowcasting with Latent Diffusion Models | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2307.10422) |
+| Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2304.12891) [\[official code\]](https://github.com/MeteoSwiss/ldcast) |
+| ClimART: A Benchmark Dataset for Emulating Atmospheric Radiative Transfer in Weather and Climate Models | *arXiv* | 2021 | [\[Paper\]](https://arxiv.org/abs/2111.14671) [\[official code\]](https://github.com/RolnickLab/climart) |
+| PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2308.05732) |
+| Diffusion Models for High-Resolution Solar Forecasts | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2302.00170) |
+| Generative Residual Diffusion Modeling for Km-scale Atmospheric Downscaling | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2309.15214) |
+| DiffMet: Diffusion models and deep learning for precipitation nowcasting | *Master thesis* | 2023 | [\[Paper\]] |
+(https://www.duo.uio.no/handle/10852/103253)
 
 **Generative Adversarial Networks (GANs)-based Approaches**
 
@@ -162,7 +165,7 @@ ___
 
 **Forecasting**
 | Publication | Venue | Year | Resource |
-|:--|:--|:--|:--|
+|:------|:----:|---------:|---------:|
 | Dwfh: An improved data-driven deep weather forecasting hybrid model using transductive long short term memory (t-lstm) | *EAAI* | 2023 | [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0957417422022886) |
 | Swinrdm: integrate swinrnn with diffusion model towards high-resolution and highquality weather forecasting | *AAAI* | 2023 | [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25105) |
 | Swinvrnn: A data-driven ensemble forecasting model via learned distribution perturbation | *Journal of Advances in Modeling Earth Systems* | 2023 | [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211) |
@@ -191,7 +194,7 @@ ___
 **Precipitation Nowcasting**
 
 | Publication | Venue | Year | Resource |
-|:--|:--|:--|:--|
+|:------|:----:|---------:|---------:|
 | Dynamic Multiscale Fusion Generative Adversarial Network for Radar Image Extrapolation | *IEEE Transactions on Geoscience and Remote Sensing* | 2022 | [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9837952) |
 | MCSIP Net: Multichannel Satellite Image Prediction via Deep Neural Network | *IEEE Transactions on Geoscience and Remote Sensing* | 2019 | [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8933126) |
 | Developing Deep Learning Models for Storm Nowcasting | *IEEE Transactions on Geoscience and Remote Sensing* | 2021 | [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9542945) |
@@ -220,7 +223,7 @@ ___
 
 **Weather and Climate Series Data**
 | Publication | Venue | Year | Resource |
-|:--|:--|:--|:--|
+|:------|:----:|---------:|---------:|
 | ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning | *NeurIPS* (Track on Datasets and Benchmarks) | 2023 | [\[Paper\]](https://arxiv.org/abs/2311.03721) [\[official project\]](https://climateset.github.io/) |
 | ClimateBench v1.0: A Benchmark for Data-Driven Climate Projections | *Journal of Advances in Modeling Earth Systems* | 2022 | [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002954) [\[official code\]](https://github.com/duncanwp/ClimateBench) |
 | WeatherBench: A Benchmark Data Set for Data-Driven Weather Forecasting | *Journal of Advances in Modeling Earth Systems* | 2020 | [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002203) [\[official code\]](https://github.com/pangeo-data/WeatherBench) |
@@ -245,7 +248,7 @@ ___
 
 **Weather and Climate Text Data**
 | Publication | Venue | Year | Resource |
-|:--|:--|:--|:--|
+|:------|:----:|---------:|---------:|
 | CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims | *arXiv* | 2021 | [\[Paper\]](https://arxiv.org/abs/2012.00614) [\[official code\]](https://github.com/tdiggelm/climate-fever-dataset) |
 | ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2310.08096) |
 | ClimaText: A Dataset for Climate Change Topic Detection | *arXiv* | 2020 | [\[Paper\]](https://arxiv.org/abs/2012.00483) |
@@ -257,6 +260,7 @@ ___
 
 [![Star History Chart](https://api.star-history.com/svg?repos=shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate&type=Date)](https://star-history.com/#shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate&Date)
 
+## Please star it if you find this repository useful!
 ## Please cite our publication if you found our research to be helpful.
 
 ```bibtex
