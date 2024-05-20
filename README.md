@@ -37,26 +37,6 @@ ___
 
 **Recurrent Neural Network-based Models**
 
-* MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions, in *CVPR* 2021. [\[Paper\]](https://arxiv.org/abs/2103.02243) [\[official code\]](https://github.com/thuml/MotionRNN)
-* Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting, in *NeurIPS* 2015. [\[Paper\]](https://proceedings.neurips.cc/paper/2015/hash/07563a3fe3bbe7e3ba84431ad9d055af-Abstract.html) [\[official code\]](https://github.com/ndrplz/ConvLSTM_pytorch) 
-* Dwfh: An improved data-driven deep weather forecasting hybrid model using transductive long short term memory (t-lstm), in *EAAI* 2023. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0957417422022886)
-* Spatiotemporal inference network for precipitation nowcasting with multi-modal fusion, in *IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing* 2023.[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10285341)
-* Understanding the role of weather data for earth surface forecastingusing a convlstm-based model, in *CVPR* 2023. [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Diaconu_Understanding_the_Role_of_Weather_Data_for_Earth_Surface_Forecasting_CVPRW_2022_paper.pdf) [\[official code\]](https://github.com/dcodrut/weather2land)
-* Spatio-temporal weather forecasting and attention mechanism on convolutional lstms, in *arXiv* 2021. [\[Paper\]](https://www.academia.edu/download/93935645/2102.00696v1.pdf) [\[official code\]](https://github.com/sftekin/spatio-temporal-weather-forecasting)
-* Convolutional tensor-train lstm for spatio-temporal learning, in *NeurIPS* 2020. [\[Paper\]](https://proceedings.neurips.cc/paper/2020/hash/9e1a36515d6704d7eb7a30d783400e5d-Abstract.html) [\[official code\]](https://github.com/NVlabs/conv-tt-lstm)
-* Predrnn: A recurrent neural network for spatiotemporal predictive learning, in *IEEE T-PAMI* 2022. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9749915) [\[official code\]](https://github.com/thuml/predrnn-pytorch) 
-* Eidetic 3d lstm: A model for video prediction and beyond, in *ICLR* 2018. [\[Paper\]](http://faculty.ucmerced.edu/mhyang/papers/iclr2019_eidetic3d.pdf) [\[official code\]](https://github.com/google/e3d_lstm) 
-* Predrann: the spatiotemporal attention convolution recurrent neural network for precipitation nowcasting, in *Knowledge-Based Systems* 2022. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0950705121010601) 
-* Time-series prediction of hourly atmospheric pressure using anfis and lstm approaches, in *Neural Computing and Applications* 2022. [\[Paper\]](https://link.springer.com/article/10.1007/s00521-022-07275-5) 
-* Ilf-lstm: Enhanced loss function in lstm to predict the sea surface temperature, in *Soft Computing* 2022. [\[Paper\]](https://link.springer.com/article/10.1007/s00500-022-06899-y) 
-* Swinlstm: Improving spatiotemporal prediction accuracy using swin transformer and lstm, in *ICCV* 2023. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_SwinLSTM_Improving_Spatiotemporal_Prediction_Accuracy_using_Swin_Transformer_and_LSTM_ICCV_2023_paper.html) [\[official code\]](https://github.com/SongTang-x/SwinLSTM) 
-* Swinrdm: integrate swinrnn with diffusion model towards high-resolution and highquality weather forecasting, in *AAAI* 2023. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25105) 
-* Swinvrnn: A data-driven ensemble forecasting model via learned distribution perturbation, in *Journal of Advances in Modeling Earth Systems* 2023. [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211)
-* Comparison of BLSTM-Attention and BLSTM-Transformer Models for Wind Speed Prediction, in *Bulgarian Academyof Sciences* 2022. [\[Paper\]](http://proceedings.bas.bg/index.php/cr/article/view/10)
-* A generative adversarial gated recurrent unit model for precipitation nowcasting, in *IEEE Geoscience and Remote Sensing Letters* 2019. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8777193) [\[official code\]](https://github.com/LukaDoncic0/GAN-argcPredNet) 
-* Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network, in *IEEE Transactions on Geoscience and Remote Sensing* 2020. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9246532) [\[official code\]](https://github.com/jleinonen/downscaling-rnn-gan) 
-* Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows, in *ICCV* 2021. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper) [\[official code\]](https://github.com/microsoft/Swin-Transformer) 
-* Towards data-driven physics-informed global precipitation forecasting from satellite imagery, in *NeurIPS* 2020. [\[Paper\]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2020/70/paper.pdf)
 
 | Publication  | Venue | Year | Resource |
 |:------|:----:|---------:|---------:|
