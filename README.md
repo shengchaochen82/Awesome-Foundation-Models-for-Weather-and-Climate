@@ -20,6 +20,7 @@ ___
 
 | Publication  | Venue | Year |  Resource |
 |:------|:----:|---------:|---------:|
+| Aurora: A Foundation Model of the Atmosphere  | *Microsoft Research AI for Science*   | 2024     | [\[paper\]](https://www.microsoft.com/en-us/research/publication/aurora-a-foundation-model-of-the-atmosphere/) |
 | Pangu-Weather: Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks  | *Nature*   | 2023     | [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3) [\[code\]](https://github.com/198808xc/Pangu-Weather)     |
 | ClimaX: A Foundation Model for Weather and Climate  | *ICML*   | 2023     | [\[paper\]](https://arxiv.org/abs/2301.10343) [\[code\]](https://github.com/microsoft/ClimaX)     |
 | GraphCast: Learning Skillful Medium-Range Global Weather Forecasting  | *arXiv*   | 2022     | [\[paper\]](https://arxiv.org/abs/2212.12794) [\[code\]](https://github.com/google-deepmind/graphcast)     |
