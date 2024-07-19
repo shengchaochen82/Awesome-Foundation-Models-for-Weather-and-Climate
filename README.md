@@ -5,6 +5,8 @@
 
 A professionally curated list of **Large Foundation Models for Weather and Climate Data Understanding (e.g., time-series, spatio-temporal series, video streams, graphs, and text)** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
+**OPEN TO COLLABORATION! If you have any new insights in any relevant research direction or just want to chat, please drop me an email (shengchao.chen.uts AT gmail DOT com).**
+
 **<font color="red">[Paper]</font>** Our survey: [Foundation Models for Weather and Climate Data Understanding: A Comprehensive Survey](https://arxiv.org/pdf/2312.03014.pdf) has appeared on arXiv, which is the first work to comprehensively and systematically summarize DL-based weather and climate data understanding, paving the way for the development of weather and climate foundation models. 🌤️⛈️❄️
 
 >**Abstract**:
@@ -225,6 +227,7 @@ ___
 **Weather and Climate Series Data**
 | Publication | Venue | Year | Resource |
 |:------|:----:|---------:|---------:|
+| WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark | *arXiv* | 2024 | [\[Paper\]](https://arxiv.org/abs/2406.14399) [\[official project\]](https://github.com/taohan10200/WEATHER-5K?utm_source=catalyzex.com) |
 | ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning | *NeurIPS* (Track on Datasets and Benchmarks) | 2023 | [\[Paper\]](https://arxiv.org/abs/2311.03721) [\[official project\]](https://climateset.github.io/) |
 | ClimateBench v1.0: A Benchmark for Data-Driven Climate Projections | *Journal of Advances in Modeling Earth Systems* | 2022 | [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002954) [\[official code\]](https://github.com/duncanwp/ClimateBench) |
 | WeatherBench: A Benchmark Data Set for Data-Driven Weather Forecasting | *Journal of Advances in Modeling Earth Systems* | 2020 | [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002203) [\[official code\]](https://github.com/pangeo-data/WeatherBench) |
@@ -244,7 +247,7 @@ ___
 | 1 km monthly temperature and precipitation dataset for China from 1901 to 2017 | *Earth System Science Data* | 2019 | [\[Paper\]](https://essd.copernicus.org/articles/11/1931/2019/) |
 | ClimART: A Benchmark Dataset for Emulating Atmospheric Radiative Transfer in Weather and Climate Models | *arXiv* | 2021 | [\[Paper\]](https://arxiv.org/abs/2111.14671) [\[official code\]](https://github.com/RolnickLab/climart) |
 | Rain-F: A Fusion Dataset for Rainfall Prediction Using Convolutional Neural Network | *IGARSS* | 2021 | [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9555094) |
-| RAIN-F+: The Data-Driven Precipitation Prediction Model for Integrated Weather Observations | *Remote Sensing* | 2021 | [\[Paper\]](https://www.mdpi.com/2072-4292/13/18/3627) [\[official code\]](https://github.com/chagmgang
+| RAIN-F+: The Data-Driven Precipitation Prediction Model for Integrated Weather Observations | *Remote Sensing* | 2021 | [\[Paper\]](https://www.mdpi.com/2072-4292/13/18/3627) [\[official code\]](https://github.com/chagmgang) |
 
 
 **Weather and Climate Text Data**
