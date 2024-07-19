@@ -218,7 +218,7 @@ ___
 | Eidetic 3d lstm: A model for video prediction and beyond | *ICLR* | 2018 | [\[Paper\]](http://faculty.ucmerced.edu/mhyang/papers/iclr2019_eidetic3d.pdf) [\[official code\]](https://github.com/google/e3d_lstm) |
 | Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction | *CVPR* | 2020 | [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/html/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.html) |
 | Partial differential equations | *American Mathematical Society* | 2022 | [\[Paper\]](https://books.google.co.jp/books?hl=zh-CN&lr=&id=Ott1EAAAQBAJ&oi=fnd&pg=PP1&dq=Partial+differential+equations&ots=cVEvwI4QvJ&sig=Y1ulehDMpv87Eddv8_cdvx7hJug&redir_esc=y#v=onepage&q=Partial%20differential%20equations&f=false) |
-| Metnet: A neural weather model for precipitation forecasting | *arXiv* | 2020 | [\[Paper\]](https://arxiv.org/abs/2003.12140) [\[official code\]](https://github
+| Metnet: A neural weather model for precipitation forecasting | *arXiv* | 2020 | [\[Paper\]](https://arxiv.org/abs/2003.12140) [\[official code\]](https://github) |
 
 ---
   
@@ -229,6 +229,7 @@ ___
 |:------|:----:|---------:|---------:|
 | WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark | *arXiv* | 2024 | [\[Paper\]](https://arxiv.org/abs/2406.14399) [\[official project\]](https://github.com/taohan10200/WEATHER-5K?utm_source=catalyzex.com) |
 | ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning | *NeurIPS* (Track on Datasets and Benchmarks) | 2023 | [\[Paper\]](https://arxiv.org/abs/2311.03721) [\[official project\]](https://climateset.github.io/) |
+| Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations | *AISTATS* | 2023 | [\[Paper\]](https://arxiv.org/abs/2302.10493) [\[official project\]](https://github.com/bycnfz/weather2k) |
 | ClimateBench v1.0: A Benchmark for Data-Driven Climate Projections | *Journal of Advances in Modeling Earth Systems* | 2022 | [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002954) [\[official code\]](https://github.com/duncanwp/ClimateBench) |
 | WeatherBench: A Benchmark Data Set for Data-Driven Weather Forecasting | *Journal of Advances in Modeling Earth Systems* | 2020 | [\[Paper\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002203) [\[official code\]](https://github.com/pangeo-data/WeatherBench) |
 | WeatherBench 2: A benchmark for the next generation of data-driven global weather models | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2308.15560) [\[official code\]](https://github.com/google-research/weatherbench2) |
