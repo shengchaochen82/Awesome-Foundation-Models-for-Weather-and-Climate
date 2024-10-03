@@ -7,7 +7,7 @@ A professionally curated list of **Large Foundation Models for Weather and Clima
 
 **OPEN TO COLLABORATION! If you have any new insights in any relevant research direction or just want to chat, please drop me an email (shengchao.chen.uts AT gmail DOT com).**
 
-**<font color="red">[*New*, Paper]</font>** Our research paper: [Personalized Adapter for Large Meteorology Model on Devices: Towards Weather Foundation Models](https://arxiv.org/abs/2405.20348) has accepted by **NeurIPS 2024**, which introduces a language model-based solution for real-world multi-device meteorological variable modeling.
+**<font color="red">[*New*, Paper]</font>** Our research paper: [Personalized Adapter for Large Meteorology Model on Devices: Towards Weather Foundation Models](https://arxiv.org/abs/2405.20348) has accepted by **NeurIPS 2024**, which introduces a language model-based solution for real-world multi-device meteorological variable modeling. [Code and dataset coming soon]
 
 **<font color="red">[Paper]</font>** Our survey: [Foundation Models for Weather and Climate Data Understanding: A Comprehensive Survey](https://arxiv.org/pdf/2312.03014.pdf) has appeared on arXiv, which is the first work to comprehensively and systematically summarize DL-based weather and climate data understanding, paving the way for the development of weather and climate foundation models. 🌤️⛈️❄️
 
