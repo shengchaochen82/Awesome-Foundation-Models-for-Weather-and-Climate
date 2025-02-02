@@ -13,7 +13,7 @@ A professionally curated list of **Large Foundation Models for Weather and Clima
 </div>
 
 ## 📢 Updates
-- **[2025-01]** 📄 Looking for contributors to help reshape our survey paper. Join us as a co-author! [Contact us](#contact)
+- **[2025-01]** 📄 Looking for contributors to help reshape our survey paper. Join us as a co-author! [Contact us](#shengchao.chen.uts@gmail.com)
 - **[2024-09]** 🎉 Our paper ["Personalized Adapter for Large Meteorology Model on Devices"](https://arxiv.org/abs/2405.20348) has been accepted by **NeurIPS 2024**!
 - **[2023-12]** 📚 Released our comprehensive survey: ["Foundation Models for Weather and Climate Data Understanding"](https://arxiv.org/pdf/2312.03014.pdf)
 
@@ -35,6 +35,7 @@ Recent advances in deep learning (DL) have significantly enhanced our capability
 
 | Publication  | Venue | Year |  Resource |
 |:------|:----:|---------:|---------:|
+| Prithvi WxC: Foundation Model for Weather and Climate | *IBM Research* | 2024 | [\[paper\]](https://arxiv.org/abs/2409.13598) [\[code\]](https://github.com/NASA-IMPACT/Prithvi-WxC)|
 | Aurora: A Foundation Model of the Atmosphere  | *Microsoft Research AI for Science*   | 2024     | [\[paper\]](https://www.microsoft.com/en-us/research/publication/aurora-a-foundation-model-of-the-atmosphere/) |
 | Pangu-Weather: Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks  | *Nature*   | 2023     | [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3) [\[code\]](https://github.com/198808xc/Pangu-Weather)     |
 | ClimaX: A Foundation Model for Weather and Climate  | *ICML*   | 2023     | [\[paper\]](https://arxiv.org/abs/2301.10343) [\[code\]](https://github.com/microsoft/ClimaX)     |
