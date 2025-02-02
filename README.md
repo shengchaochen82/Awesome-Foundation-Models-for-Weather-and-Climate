@@ -5,7 +5,7 @@
 
 A professionally curated list of **Large Foundation Models for Weather and Climate Data Understanding (e.g., time-series, spatio-temporal series, video streams, graphs, and text)** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
-**OPEN TO COLLABORATION! If you have any new insights in any relevant research direction or just want to chat, please drop me an email (shengchao.chen.uts AT gmail DOT com).**
+**<font color="red">[*New*, Paper]</font>** We are reshaping our survey paper. If you are interested in contributing and willing to put in the effort, you will be included as a co-author. Feel free to reach out to me if this opportunity interests you!
 
 **<font color="red">[*New*, Paper]</font>** Our research paper: [Personalized Adapter for Large Meteorology Model on Devices: Towards Weather Foundation Models](https://arxiv.org/abs/2405.20348) has accepted by **NeurIPS 2024**, which introduces a language model-based solution for real-world multi-device meteorological variable modeling.
 
