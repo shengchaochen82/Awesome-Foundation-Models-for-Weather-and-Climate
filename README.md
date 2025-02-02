@@ -35,7 +35,9 @@ Recent advances in deep learning (DL) have significantly enhanced our capability
 
 | Publication  | Venue | Year |  Resource |
 |:------|:----:|---------:|---------:|
-| Prithvi WxC: Foundation Model for Weather and Climate | *IBM Research* | 2024 | [\[paper\]](https://arxiv.org/abs/2409.13598) [\[code\]](https://github.com/NASA-IMPACT/Prithvi-WxC)|
+| Neural general circulation models for weather and climate | *Nature* | 2024 | [\[paper\]](https://www.nature.com/articles/s41586-024-07744-y) [\[code\]](https://arxiv.org/abs/2411.05420)|
+| Prithvi WxC: Foundation Model for Weather and Climate | *arXiv* | 2024 | [\[paper\]](https://arxiv.org/abs/2411.05420) [\[code\]](https://github.com/NASA-IMPACT/Prithvi-WxC)|
+| WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning | *NeurIPS* | 2024 | [\[paper\]](https://arxiv.org/abs/2409.13598) [\[code\]](https://github.com/NASA-IMPACT/Prithvi-WxC)|
 | Aurora: A Foundation Model of the Atmosphere  | *Microsoft Research AI for Science*   | 2024     | [\[paper\]](https://www.microsoft.com/en-us/research/publication/aurora-a-foundation-model-of-the-atmosphere/) |
 | Pangu-Weather: Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks  | *Nature*   | 2023     | [\[paper\]](https://www.nature.com/articles/s41586-023-06185-3) [\[code\]](https://github.com/198808xc/Pangu-Weather)     |
 | ClimaX: A Foundation Model for Weather and Climate  | *ICML*   | 2023     | [\[paper\]](https://arxiv.org/abs/2301.10343) [\[code\]](https://github.com/microsoft/ClimaX)     |
@@ -241,6 +243,7 @@ Recent advances in deep learning (DL) have significantly enhanced our capability
 **Weather and Climate Series Data**
 | Publication | Venue | Year | Resource |
 |:------|:----:|---------:|---------:|
+|BRIGHT: A globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response | *arXiv* | 2025 | [\[Paper\]](https://arxiv.org/abs/2501.06019) [\[official project\]](https://github.com/ChenHongruixuan/BRIGHT) |
 | WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark | *arXiv* | 2024 | [\[Paper\]](https://arxiv.org/abs/2406.14399) [\[official project\]](https://github.com/taohan10200/WEATHER-5K?utm_source=catalyzex.com) |
 | ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning | *NeurIPS* (Track on Datasets and Benchmarks) | 2023 | [\[Paper\]](https://arxiv.org/abs/2311.03721) [\[official project\]](https://climateset.github.io/) |
 | Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations | *AISTATS* | 2023 | [\[Paper\]](https://arxiv.org/abs/2302.10493) [\[official project\]](https://github.com/bycnfz/weather2k) |
