@@ -1,23 +1,34 @@
-# Awesome-Foundation-Models-for-Weather-and-Climate
+<div align="center">
+
+# 🌍 Awesome Large Foundation Models/Task-Specific for Weather and Climate
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate)
 
 A professionally curated list of **Large Foundation Models for Weather and Climate Data Understanding (e.g., time-series, spatio-temporal series, video streams, graphs, and text)** with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
-**<font color="red">[*New*, Paper]</font>** We are reshaping our survey paper. If you are interested in contributing and willing to put in the effort, you will be included as a co-author. Feel free to reach out to me if this opportunity interests you!
+[Paper](#paper) • [Resources](#resources) • [Models](#models) • [Contributing](#contributing)
 
-**<font color="red">[*New*, Paper]</font>** Our research paper: [Personalized Adapter for Large Meteorology Model on Devices: Towards Weather Foundation Models](https://arxiv.org/abs/2405.20348) has accepted by **NeurIPS 2024**, which introduces a language model-based solution for real-world multi-device meteorological variable modeling.
+</div>
 
-**<font color="red">[Paper]</font>** Our survey: [Foundation Models for Weather and Climate Data Understanding: A Comprehensive Survey](https://arxiv.org/pdf/2312.03014.pdf) has appeared on arXiv, which is the first work to comprehensively and systematically summarize DL-based weather and climate data understanding, paving the way for the development of weather and climate foundation models. 🌤️⛈️❄️
+## 📢 Updates
+- **[2025-01]** 📄 Looking for contributors to help reshape our survey paper. Join us as a co-author! [Contact us](#contact)
+- **[2024-09]** 🎉 Our paper ["Personalized Adapter for Large Meteorology Model on Devices"](https://arxiv.org/abs/2405.20348) has been accepted by **NeurIPS 2024**!
+- **[2023-12]** 📚 Released our comprehensive survey: ["Foundation Models for Weather and Climate Data Understanding"](https://arxiv.org/pdf/2312.03014.pdf)
 
 >**Abstract**:
 Recent advances in deep learning (DL) have significantly enhanced our capability to analyze and interpret weather and climate data, especially at fine spatio-temporal scales, helping unravel the chaotic and nonlinear patterns of Earth's systems. The emergence of Foundation Models, particularly Large Language Models (LLMs), has catalyzed advances in Artificial General Intelligence, delivering outstanding outcomes across various tasks through fine-tuning. The success of LLMs presents a novel opportunity to rethink the task of weather and climate data understanding: **Is it possible to utilize or evolve Foundation Models for weather and climate data to enhance the accuracy of task completion?** This survey evaluates the potential of adapting Foundation Models to enhance weather and climate data analysis. We present a concise, up-to-date review of cutting-edge AI techniques tailored for this domain, concentrating on time series and textual information. We cover four key areas: data types, model architectures, application scopes, and task-specific datasets. Furthermore, we address prevailing challenges, provide insights, and outline future research directions, empowering practitioners to advance the field. The survey distills the latest innovations in data-driven models, underscoring foundational strength, progress, applications, resources, and research frontiers, thus offering a roadmap for transformative advancements in weather and climate data understanding.
 
-**We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.**
+## 🌟 Highlights
 
-___
-## Large Foundation Models for Weather and Climate
+- **Comprehensive Coverage**: Time series, textual data, model architectures, applications
+- **Up-to-date Resources**: Latest papers, code implementations, datasets
+- **Practical Insights**: Challenges, opportunities, future directions
+- **Community Driven**: Open for contributions and collaborations
+
+## 📚 Resources
+### Large Foundation Models for Weather and Climate
 >**Definition**:
 *Pre-trained from large-scale weather/climate dataset and able to perform various weather/cliamte-related tasks.*
 
@@ -37,7 +48,7 @@ ___
 
 ---
   
-## Task-Specific Models for Weather and Climate
+### Task-Specific Models for Weather and Climate
 > **Remark**: *Note that in this categorization, we use basic network architectures (e.g., RNN, Transformer), etc., and applications (e.g., prediction, weather pattern understanding, etc.) to make an enumeration of advanced related work.*
 
 **Recurrent Neural Network-based Models**
@@ -79,8 +90,8 @@ ___
 | PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2308.05732) |
 | Diffusion Models for High-Resolution Solar Forecasts | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2302.00170) |
 | Generative Residual Diffusion Modeling for Km-scale Atmospheric Downscaling | *arXiv* | 2023 | [\[Paper\]](https://arxiv.org/abs/2309.15214) |
-| DiffMet: Diffusion models and deep learning for precipitation nowcasting | *Master thesis* | 2023 | [\[Paper\]] |
-(https://www.duo.uio.no/handle/10852/103253)
+| DiffMet: Diffusion models and deep learning for precipitation nowcasting | *Master thesis* | 2023 | [\[Paper\]](https://www.duo.uio.no/handle/10852/103253) |
+
 
 **Generative Adversarial Networks (GANs)-based Approaches**
 
@@ -166,7 +177,7 @@ ___
 
 ---
   
-## Application
+### Application
 
 **Forecasting**
 | Publication | Venue | Year | Resource |
@@ -263,11 +274,22 @@ ___
 | Neuralnere: Neural named entity relationship extraction for end-to-end climate change knowledge graph construction | *ICML* | 2021 | [\[Paper\]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/76/paper.pdf) |
 
 
-## Star History
+## 🤝 Contributing
+
+We welcome contributions! Please feel free to:
+- Open an issue for errors or missing resources
+- Submit a pull request with new papers/resources
+- Reach out for collaboration opportunities
+  
+## 📧 Contact
+
+For questions or collaboration opportunities, please contact:
+- Email: [shengchao.chen.uts@gmail.com]
+
+## ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate&type=Date)](https://star-history.com/#shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate&Date)
 
-## Please star it if you find this repository useful!
 ## Please cite our publication if you found our research to be helpful.
 
 ```bibtex
